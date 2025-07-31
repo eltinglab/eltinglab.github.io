@@ -1,8 +1,8 @@
 ---
 layout: member
-title: Postdoctoral Researcher
-position: Jack Linehan
-handle:
+title: Dr. Jack Linehan 
+position: Postdoctoral Researcher
+handle: jlinehan
 email:
 twitter:
 github:

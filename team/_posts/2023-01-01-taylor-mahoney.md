@@ -1,8 +1,8 @@
 ---
 layout: member
-title: Taylor Couture
+title: Taylor Mahoney
 position: Graduate Student
-handle: tcouture
+handle: tmahoney
 email:
 twitter:
 github:
