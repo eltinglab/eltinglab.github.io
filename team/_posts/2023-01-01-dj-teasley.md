@@ -10,7 +10,7 @@ scholar:
 calendar:
 image: /images/team/DJTeasley.jpg
 cv:
-alumni: 
+alumni: true
 ---
 
 

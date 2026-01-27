@@ -10,6 +10,7 @@ scholar:
 calendar:
 image: /images/team/joeLannan.png
 cv:
+alumni: true
 ---
 
 I graduated magna cum laude in physics from North Carolina State University with a minor in mathematics. During my undergrad I worked in Dr. Dougherty's lab under the Organic and Carbon Electronics Lab (ORaCEL) group where I worked on organic transistors for applications in thin, transparent, and cheaper electronics.
