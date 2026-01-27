@@ -5,7 +5,7 @@ author: Mary Elting
 ---
 <br>
 
-Our <a href ="{{ site.baseurl }}/papers/2026-01-15-mahoney-biorxiv">latest work</a>, led by Taylor Mahoney is now preprinted.
+Our <a href ="{{ site.baseurl }}/papers/mahoney-biorxiv">latest work</a>, led by Taylor Mahoney is now preprinted.
 
 <div style="max-width: 600px;">
      <div class="media">
