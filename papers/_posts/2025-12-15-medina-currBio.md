@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Cellularization in chythrid fungi uses distinct mechanisms from conventional cytokinesis and cellularization in animals and yeast"
-image: /images/papers/begley-cytoskeleton.png
+image: /images/papers/medina-curr-bio.jpg
 authors: "Medina EM, Elting MW, Fritz-Laylin L"
 year: 2025
 ref: Medina, Elting, and Fritz-Laylin, Current Biology, 2025.
