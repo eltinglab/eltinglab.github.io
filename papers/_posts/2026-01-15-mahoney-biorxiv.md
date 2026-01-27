@@ -2,7 +2,7 @@
 layout: paper
 title: "Spindle biochemistry responds to compressive force from the nuclear envelope to tune spindle dynamics during closed mitosis"
 image: /images/papers/mahoneyBiorxiv.jpg
-authors: "Mahoney T, Nedham C, Hakeem R, Begley M, Pagán Medina C, Elting MW"
+authors: "Mahoney T, Needham C, Hakeem R, Begley M, Pagán Medina C, Elting MW"
 year: 2026
 ref: Mahoney, Needham, Hakeem, Begley Pagán Medina, Elting, biorXiv 2026.
 journal: "bioRxiv"
